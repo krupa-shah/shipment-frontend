@@ -21,5 +21,11 @@ npm run build
 npm run lint
 ```
 
+### Demo
+
+```
+Please find the attached untitled mp4 file for Demo.
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
